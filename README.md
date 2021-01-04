@@ -1,1 +1,4 @@
-This branch consist of Data science projects from Kaggle and other online open source datasets
+Kaggle TITANIC:
+The goal of this repository is to provide solutions for Kaggle's Data Science competitions .
+It also includes solutions for other projects on Machine learning alogorithms
+

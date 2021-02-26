@@ -8,6 +8,7 @@ As of now, the solutions to three projects are provided:
 - Kaggle: Titanic survival prediction
 - Kaggle: Housing Price prediction using SVM and advance regression technique
 - Energy Output prediction for a power plant using ANN
+- Implementation of CNN with image augmentation on CIFAR-10 Dataset
 
 ## Procedure
 
